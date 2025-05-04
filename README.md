@@ -10,3 +10,8 @@ docker-compose up -d
 ```
 
 6. Levantar: ```npm run start:dev```
+
+Para ver la documentación de las apis:
+```
+http://localhost:3000/api
+```
